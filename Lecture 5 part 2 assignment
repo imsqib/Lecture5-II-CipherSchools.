@@ -1,0 +1,21 @@
+Array
+
+#include<iostream>
+usingnamespace std;
+int main()
+ {
+int a[4];
+
+cout<<"Give 5 integer as input"endl;
+for (i=0;i,5;i++)
+{
+cin>>a[i];
+}
+cout<<"the 5 given inputs are :"<<endl;
+for (i=0;i,5;i++)
+{
+cout<<a[i]<<" ";
+}
+
+
+
